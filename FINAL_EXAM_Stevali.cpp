@@ -41,7 +41,7 @@ int main (){
              switch (pilihan[0])    //menggunakan switch to case menu
              {
                    
-		   case 1:      //case menu 1
+				    case 1:      //case menu 1
                          cout<<"JUMLAH SALDO ANDA SAAT INI : Rp. "<<saldo<<endl<<endl;
                          cout<<"1. Back"<<endl;
                          cout<<"2. Exit"<<endl<<endl;
